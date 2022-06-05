@@ -1,4 +1,8 @@
-# COMP3504-Term-Project
+# LifeStyle-Buddy term project:
+
+Created using react-native as a term long project.
+
+Team members involved in creating the project: Lidiya Artemenko, Randy Lam, Daniel Yankov, Yuan Tao Zhou
 
 # Dependencies to install for the project
 
