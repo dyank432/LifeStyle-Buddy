@@ -1,3 +1,8 @@
+# Screenshots
+<img width="338" alt="game_1" src="https://github.com/dyank432/LifeStyle-Buddy/assets/55112870/edfa9ec1-7d33-4e21-b575-5e3cc1f11e92">
+<img width="335" alt="game_2" src="https://github.com/dyank432/LifeStyle-Buddy/assets/55112870/5f84bb98-bfb6-4f8c-a877-9f889a018466">
+<img width="338" alt="game_2" src="https://github.com/dyank432/LifeStyle-Buddy/assets/55112870/058593a6-7e14-4330-9e20-69237e62d4a8>
+
 # LifeStyle-Buddy term project:
 
 Created using react-native as a term long project.
